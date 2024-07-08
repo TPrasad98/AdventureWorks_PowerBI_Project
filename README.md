@@ -1,7 +1,3 @@
-Sure, here's a more detailed and comprehensive README.md file for your Power BI project:
-
----
-
 # AdventureWorks Power BI Project
 
 Welcome to the AdventureWorks Power BI Project! This repository contains the files and documentation for a comprehensive business intelligence solution built using Microsoft Power BI. The project demonstrates how to transform raw data into insightful reports and dashboards to aid business decision-making.
@@ -18,8 +14,6 @@ Welcome to the AdventureWorks Power BI Project! This repository contains the fil
 - [Data Sources](#data-sources)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Project Overview
@@ -86,18 +80,10 @@ The project uses various CSV files containing raw data about transactions, retur
 2. **Interact with Dashboards**: Use the report view to interact with various charts, slicers, and tables to gain insights from the data.
 3. **Modify and Extend**: Feel free to modify the data model, add new measures, and create additional visualizations to extend the analysis.
 
-## Contributors
-
-- [Your Name](https://www.linkedin.com/in/yourprofile/)
-- [Chris Dutton](https://www.linkedin.com/in/chrisdutton/)
-- [Aaron Parry](https://www.linkedin.com/in/aaronparry/)
-
 
 ## Acknowledgments
 
 - Special thanks to [Maven Analytics](https://mavenanalytics.io/) for the comprehensive Power BI course materials.
 - Data provided by Microsoft for educational purposes.
 
----
 
-Feel free to further customize this README.md file to better fit your project's details and personal preferences.
